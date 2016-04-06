@@ -2,7 +2,6 @@
 layout: post
 title: Blogging Intent
 ---
-Test
 
 I’m starting this blog to share some of my thoughts on different technical topics I’ve encountered. My primary goal in this is to further my own understanding by being able to present it in a clear way. In addition it would be great if my blogs were of use to other people’s learning and even better if their feedback allowed me to learn new things.
 
